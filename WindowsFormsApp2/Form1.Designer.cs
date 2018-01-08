@@ -34,9 +34,9 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.label13 = new System.Windows.Forms.Label();
-            this.TotValPen = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.label = new System.Windows.Forms.Label();
+            this.TotValPound = new System.Windows.Forms.TextBox();
+            this.TotValPen = new System.Windows.Forms.TextBox();
             this.button2Pound = new System.Windows.Forms.Button();
             this.button1Pound = new System.Windows.Forms.Button();
             this.button50p = new System.Windows.Forms.Button();
@@ -66,7 +66,7 @@
             this.label11 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
             this.textBox4 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.CredCost = new System.Windows.Forms.TextBox();
             this.button10 = new System.Windows.Forms.Button();
             this.helpProvider1 = new System.Windows.Forms.HelpProvider();
             this.groupBox1.SuspendLayout();
@@ -81,9 +81,9 @@
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Controls.Add(this.label13);
+            this.groupBox1.Controls.Add(this.label);
+            this.groupBox1.Controls.Add(this.TotValPound);
             this.groupBox1.Controls.Add(this.TotValPen);
-            this.groupBox1.Controls.Add(this.textBox2);
-            this.groupBox1.Controls.Add(this.textBox1);
             this.groupBox1.Controls.Add(this.button2Pound);
             this.groupBox1.Controls.Add(this.button1Pound);
             this.groupBox1.Controls.Add(this.button50p);
@@ -148,36 +148,36 @@
             this.label13.Text = "p";
             this.label13.Click += new System.EventHandler(this.label13_Click);
             // 
+            // label
+            // 
+            this.label.AutoSize = true;
+            this.label.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.label.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label.Location = new System.Drawing.Point(11, 375);
+            this.label.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label.Name = "label";
+            this.label.Size = new System.Drawing.Size(91, 17);
+            this.label.TabIndex = 11;
+            this.label.Text = "Total Value";
+            this.label.Click += new System.EventHandler(this.label12_Click);
+            // 
+            // TotValPound
+            // 
+            this.TotValPound.BackColor = System.Drawing.Color.LemonChiffon;
+            this.TotValPound.Location = new System.Drawing.Point(110, 402);
+            this.TotValPound.Margin = new System.Windows.Forms.Padding(4);
+            this.TotValPound.Name = "TotValPound";
+            this.TotValPound.Size = new System.Drawing.Size(132, 22);
+            this.TotValPound.TabIndex = 10;
+            // 
             // TotValPen
             // 
-            this.TotValPen.AutoSize = true;
-            this.TotValPen.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.TotValPen.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.TotValPen.Location = new System.Drawing.Point(11, 375);
-            this.TotValPen.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.TotValPen.BackColor = System.Drawing.Color.LemonChiffon;
+            this.TotValPen.Location = new System.Drawing.Point(110, 370);
+            this.TotValPen.Margin = new System.Windows.Forms.Padding(4);
             this.TotValPen.Name = "TotValPen";
-            this.TotValPen.Size = new System.Drawing.Size(91, 17);
-            this.TotValPen.TabIndex = 11;
-            this.TotValPen.Text = "Total Value";
-            this.TotValPen.Click += new System.EventHandler(this.label12_Click);
-            // 
-            // textBox2
-            // 
-            this.textBox2.BackColor = System.Drawing.Color.LemonChiffon;
-            this.textBox2.Location = new System.Drawing.Point(110, 402);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(4);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(132, 22);
-            this.textBox2.TabIndex = 10;
-            // 
-            // textBox1
-            // 
-            this.textBox1.BackColor = System.Drawing.Color.LemonChiffon;
-            this.textBox1.Location = new System.Drawing.Point(110, 370);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(4);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(132, 22);
-            this.textBox1.TabIndex = 9;
+            this.TotValPen.Size = new System.Drawing.Size(132, 22);
+            this.TotValPen.TabIndex = 9;
             // 
             // button2Pound
             // 
@@ -545,7 +545,7 @@
             this.groupBox3.Controls.Add(this.label11);
             this.groupBox3.Controls.Add(this.label10);
             this.groupBox3.Controls.Add(this.textBox4);
-            this.groupBox3.Controls.Add(this.textBox3);
+            this.groupBox3.Controls.Add(this.CredCost);
             this.groupBox3.Location = new System.Drawing.Point(9, 456);
             this.groupBox3.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox3.Name = "groupBox3";
@@ -588,23 +588,23 @@
             this.textBox4.Size = new System.Drawing.Size(69, 22);
             this.textBox4.TabIndex = 1;
             // 
-            // textBox3
+            // CredCost
             // 
-            this.textBox3.BackColor = System.Drawing.Color.MediumAquamarine;
-            this.textBox3.Location = new System.Drawing.Point(236, 28);
-            this.textBox3.Margin = new System.Windows.Forms.Padding(4);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(69, 22);
-            this.textBox3.TabIndex = 0;
+            this.CredCost.BackColor = System.Drawing.Color.MediumAquamarine;
+            this.CredCost.Location = new System.Drawing.Point(236, 28);
+            this.CredCost.Margin = new System.Windows.Forms.Padding(4);
+            this.CredCost.Name = "CredCost";
+            this.CredCost.Size = new System.Drawing.Size(69, 22);
+            this.CredCost.TabIndex = 0;
             // 
             // button10
             // 
             this.button10.BackColor = System.Drawing.Color.Red;
             this.button10.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button10.Location = new System.Drawing.Point(9, 578);
+            this.button10.Location = new System.Drawing.Point(20, 578);
             this.button10.Margin = new System.Windows.Forms.Padding(4);
             this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(313, 34);
+            this.button10.Size = new System.Drawing.Size(302, 34);
             this.button10.TabIndex = 3;
             this.button10.Text = "RESET";
             this.button10.UseVisualStyleBackColor = false;
@@ -620,11 +620,8 @@
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Margin = new System.Windows.Forms.Padding(4);
-            this.MaximizeBox = false;
-            this.MinimizeBox = false;
             this.Name = "Form1";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Money Credit Counter v2.0";
+            this.Text = "Form1";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
@@ -647,11 +644,11 @@
         private System.Windows.Forms.Button button2p;
         private System.Windows.Forms.Button button1p;
         private System.Windows.Forms.GroupBox groupBox2;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox TotValPound;
+        private System.Windows.Forms.TextBox TotValPen;
         private System.Windows.Forms.GroupBox groupBox3;
         private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox CredCost;
         private System.Windows.Forms.Button button10;
         private System.Windows.Forms.Label label2POUNDCounter;
         private System.Windows.Forms.Label label1POUNDCounter;
@@ -662,7 +659,7 @@
         private System.Windows.Forms.Label label2pCounter;
         private System.Windows.Forms.Label label1pCounter;
         private System.Windows.Forms.Label label13;
-        private System.Windows.Forms.Label TotValPen;
+        private System.Windows.Forms.Label label;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.HelpProvider helpProvider1;

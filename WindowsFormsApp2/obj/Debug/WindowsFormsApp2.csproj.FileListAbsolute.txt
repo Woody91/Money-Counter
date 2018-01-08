@@ -1,0 +1,50 @@
+C:\Users\b5018875\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\b5018875\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\b5018875\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\b5018875\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\b5018875\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\b5018875\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\b5018875\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\b5018875\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\b5018875\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\b5018875\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\Computing Year 1\Programming\VS\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\Computing Year 1\Programming\VS\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\Computing Year 1\Programming\VS\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\Computing Year 1\Programming\VS\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+E:\Computing Year 1\Programming\VS\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\Computing Year 1\Programming\VS\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\Computing Year 1\Programming\VS\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+E:\Computing Year 1\Programming\VS\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\Computing Year 1\Programming\VS\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\Computing Year 1\Programming\VS\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Adam\Desktop\Money Counter\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Adam\Desktop\Money Counter\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Adam\Desktop\Money Counter\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Adam\Desktop\Money Counter\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\Money Counter\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Adam\Desktop\Money Counter\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Adam\Desktop\Money Counter\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\Adam\Desktop\Money Counter\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Money Counter\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Adam\Desktop\Money Counter\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\Computing Year 1\Programming\Assignment\Money Counter\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\Computing Year 1\Programming\Assignment\Money Counter\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\Computing Year 1\Programming\Assignment\Money Counter\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\Computing Year 1\Programming\Assignment\Money Counter\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+E:\Computing Year 1\Programming\Assignment\Money Counter\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\Computing Year 1\Programming\Assignment\Money Counter\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\Computing Year 1\Programming\Assignment\Money Counter\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+E:\Computing Year 1\Programming\Assignment\Money Counter\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\Computing Year 1\Programming\Assignment\Money Counter\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\Computing Year 1\Programming\Assignment\Money Counter\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Adam\Desktop\Adam Woodliffe 25018875 Credit Counter\Money Counter\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Adam\Desktop\Adam Woodliffe 25018875 Credit Counter\Money Counter\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Adam\Desktop\Adam Woodliffe 25018875 Credit Counter\Money Counter\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Adam\Desktop\Adam Woodliffe 25018875 Credit Counter\Money Counter\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\Adam Woodliffe 25018875 Credit Counter\Money Counter\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Adam\Desktop\Adam Woodliffe 25018875 Credit Counter\Money Counter\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Adam\Desktop\Adam Woodliffe 25018875 Credit Counter\Money Counter\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\Adam\Desktop\Adam Woodliffe 25018875 Credit Counter\Money Counter\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Adam Woodliffe 25018875 Credit Counter\Money Counter\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Adam\Desktop\Adam Woodliffe 25018875 Credit Counter\Money Counter\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

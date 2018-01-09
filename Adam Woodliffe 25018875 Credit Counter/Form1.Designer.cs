@@ -67,8 +67,8 @@
             this.label10 = new System.Windows.Forms.Label();
             this.NumOfCred = new System.Windows.Forms.TextBox();
             this.CredCost = new System.Windows.Forms.TextBox();
-            this.ResetBut = new System.Windows.Forms.Button();
             this.helpProvider1 = new System.Windows.Forms.HelpProvider();
+            this.ResetBut = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -167,7 +167,6 @@
             this.TotCredValPound.Name = "TotCredValPound";
             this.TotCredValPound.Size = new System.Drawing.Size(132, 22);
             this.TotCredValPound.TabIndex = 10;
-            this.TotCredValPound.Text = "0";
             this.TotCredValPound.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TotCredValPound.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
@@ -179,7 +178,6 @@
             this.TotCredVal.Name = "TotCredVal";
             this.TotCredVal.Size = new System.Drawing.Size(132, 22);
             this.TotCredVal.TabIndex = 9;
-            this.TotCredVal.Text = "0";
             this.TotCredVal.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.TotCredVal.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
@@ -591,7 +589,6 @@
             this.NumOfCred.Name = "NumOfCred";
             this.NumOfCred.Size = new System.Drawing.Size(69, 22);
             this.NumOfCred.TabIndex = 1;
-            this.NumOfCred.Text = "0";
             this.NumOfCred.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.NumOfCred.TextChanged += new System.EventHandler(this.NumOfCred_TextChanged);
             // 
@@ -603,18 +600,16 @@
             this.CredCost.Name = "CredCost";
             this.CredCost.Size = new System.Drawing.Size(69, 22);
             this.CredCost.TabIndex = 0;
-            this.CredCost.Text = "0";
             this.CredCost.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.CredCost.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
             // 
             // ResetBut
             // 
             this.ResetBut.BackColor = System.Drawing.Color.Red;
-            this.ResetBut.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ResetBut.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ResetBut.Location = new System.Drawing.Point(9, 578);
-            this.ResetBut.Margin = new System.Windows.Forms.Padding(4);
             this.ResetBut.Name = "ResetBut";
-            this.ResetBut.Size = new System.Drawing.Size(313, 34);
+            this.ResetBut.Size = new System.Drawing.Size(313, 35);
             this.ResetBut.TabIndex = 3;
             this.ResetBut.Text = "RESET";
             this.ResetBut.UseVisualStyleBackColor = false;
@@ -663,7 +658,6 @@
         private System.Windows.Forms.GroupBox groupBox3;
         private System.Windows.Forms.TextBox NumOfCred;
         private System.Windows.Forms.TextBox CredCost;
-        private System.Windows.Forms.Button ResetBut;
         private System.Windows.Forms.Label label2POUNDCounter;
         private System.Windows.Forms.Label label1POUNDCounter;
         private System.Windows.Forms.Label label50pCounter;
@@ -688,6 +682,7 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Button ResetBut;
     }
 }
 

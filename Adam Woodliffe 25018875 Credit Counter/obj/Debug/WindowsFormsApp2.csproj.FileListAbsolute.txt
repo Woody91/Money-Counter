@@ -58,3 +58,13 @@ C:\Users\Adam\Desktop\Adam Woodliffe 25018875 Credit Counter\Money Counter\Credi
 C:\Users\Adam\Desktop\Adam Woodliffe 25018875 Credit Counter\Money Counter\Credit Counter\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
 C:\Users\Adam\Desktop\Adam Woodliffe 25018875 Credit Counter\Money Counter\Credit Counter\obj\Debug\WindowsFormsApp2.exe
 C:\Users\Adam\Desktop\Adam Woodliffe 25018875 Credit Counter\Money Counter\Credit Counter\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Adam\Desktop\Adam Woodliffe 25018875 Credit Counter\Money Counter\Adam Woodliffe 25018875 Credit Counter\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\Adam Woodliffe 25018875 Credit Counter\Money Counter\Adam Woodliffe 25018875 Credit Counter\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Adam\Desktop\Adam Woodliffe 25018875 Credit Counter\Money Counter\Adam Woodliffe 25018875 Credit Counter\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Adam\Desktop\Adam Woodliffe 25018875 Credit Counter\Money Counter\Adam Woodliffe 25018875 Credit Counter\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\Adam\Desktop\Adam Woodliffe 25018875 Credit Counter\Money Counter\Adam Woodliffe 25018875 Credit Counter\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Adam Woodliffe 25018875 Credit Counter\Money Counter\Adam Woodliffe 25018875 Credit Counter\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Adam\Desktop\Adam Woodliffe 25018875 Credit Counter\Money Counter\Adam Woodliffe 25018875 Credit Counter\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Adam\Desktop\Adam Woodliffe 25018875 Credit Counter\Money Counter\Adam Woodliffe 25018875 Credit Counter\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Adam\Desktop\Adam Woodliffe 25018875 Credit Counter\Money Counter\Adam Woodliffe 25018875 Credit Counter\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Adam\Desktop\Adam Woodliffe 25018875 Credit Counter\Money Counter\Adam Woodliffe 25018875 Credit Counter\bin\Debug\WindowsFormsApp2.pdb

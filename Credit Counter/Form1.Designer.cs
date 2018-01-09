@@ -146,7 +146,6 @@
             this.label13.Size = new System.Drawing.Size(17, 17);
             this.label13.TabIndex = 12;
             this.label13.Text = "p";
-            this.label13.Click += new System.EventHandler(this.label13_Click);
             // 
             // TotValPen
             // 
@@ -159,7 +158,6 @@
             this.TotValPen.Size = new System.Drawing.Size(91, 17);
             this.TotValPen.TabIndex = 11;
             this.TotValPen.Text = "Total Value";
-            this.TotValPen.Click += new System.EventHandler(this.label12_Click);
             // 
             // TotCredValPound
             // 
@@ -401,7 +399,7 @@
             this.button5.Location = new System.Drawing.Point(50, 303);
             this.button5.Margin = new System.Windows.Forms.Padding(4);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(55, 55);
+            this.button5.Size = new System.Drawing.Size(60, 59);
             this.button5.TabIndex = 11;
             this.button5.Text = "20p";
             this.button5.UseVisualStyleBackColor = true;
